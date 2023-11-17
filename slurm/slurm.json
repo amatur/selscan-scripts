@@ -1,0 +1,15 @@
+{
+    "__default__" :
+    {
+        "A" : "zps5164_sc",
+        "time" : "24:00:00",
+        "nodes": 40,
+        "ntasks": 1,
+        "cpus" : 24,
+        "p" : "burst",
+        "qos": "burst4x",
+        "mem": 100G,
+        "output": "snakemake.out",
+        "error": "snakemake.err"
+    }
+}
